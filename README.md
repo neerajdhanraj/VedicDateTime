@@ -48,8 +48,7 @@ gregorian_to_jd(08,09,2022) # dd, mm, yyyy
 To install the development version from GitHub
 
 ```r
-devtools::install_github("saradindusengupta/VedicDateTime")
-devtools::install_github("prajwalkpatil/VedicDateTime")
+devtools::install_github("neerajdhanraj/VedicDateTime")
 ```
 
 ## Build
