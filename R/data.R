@@ -12,7 +12,7 @@ masas <- c(
   "Ashvin",
   "Kartika",
   "Margashira",
-  "Pausha",
+  "Pushya",
   "Maagha",
   "Phalguna"
 )
