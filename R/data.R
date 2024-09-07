@@ -9,10 +9,10 @@ masas <- c(
   "Ashada",
   "Shravana",
   "Bhadrapada",
-  "Ashvija",
+  "Ashvin",
   "Kartika",
   "Margashira",
-  "Pushya",
+  "Pausha",
   "Maagha",
   "Phalguna"
 )
