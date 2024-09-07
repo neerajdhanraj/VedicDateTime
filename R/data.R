@@ -118,7 +118,7 @@ samvatsars <- c(
   "Vikrama",
   "Vrushapraja",
   "Citrabhanu",
-  "Svabhanu",
+  "Subhanu",
   "Tarana",
   "Parthiva",
   "Vyaya",
