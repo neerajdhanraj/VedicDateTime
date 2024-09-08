@@ -114,7 +114,7 @@ samvatsars <- c(
   "Dhatri",
   "Ishvara",
   "Bahudhanya",
-  "Pramathi",
+  "Pramadhi",
   "Vikrama",
   "Vrushapraja",
   "Citrabhanu",
